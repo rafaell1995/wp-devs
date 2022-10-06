@@ -14,9 +14,4 @@
                 </div>
             </div>
         </div>
-        <footer class="site-footer">
-            Footer
-        </footer>
-    </div>
-</body>
-</html>
+        
